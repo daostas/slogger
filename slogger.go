@@ -8,6 +8,7 @@ import (
 	"time"
 )
 
+// test
 type Logger struct {
 	Prefix string
 }
