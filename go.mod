@@ -1,3 +1,3 @@
-module gl.hq.bc/dadabaev_ext_2659/slogger
+module github/daostas/slogger
 
 go 1.20
